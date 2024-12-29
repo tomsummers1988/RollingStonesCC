@@ -1,2 +1,4 @@
 title: Rolling Stones Cycling Club
 description: The official site for Rolling Stones Cycling Club
+exclude: 
+  - assets/css 
